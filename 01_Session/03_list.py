@@ -1,3 +1,4 @@
+#리스트
 import os
 os.system('clear')
 
