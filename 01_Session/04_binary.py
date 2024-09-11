@@ -1,4 +1,4 @@
-#변수
+#진수
 import os
 os.system('clear')
 
