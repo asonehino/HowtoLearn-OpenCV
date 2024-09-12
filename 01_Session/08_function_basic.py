@@ -1,3 +1,4 @@
+#함수 기초
 def addFunc(a,b):
   return a+b
 
