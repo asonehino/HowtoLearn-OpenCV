@@ -12,4 +12,4 @@ def caffe(beverage, *arguments, **keywords):
 caffe("coffee", "it's yummy, sir.", "Would you try",
       barista = "gumin",
       client = "bssm",
-      cup = "verti")
+      cup = "venti")
