@@ -11,6 +11,6 @@ def login(msg, times=3, warn='wrong ID'):
         print(warn)
 
 #비교
-login('#1: ID를 입력하세요')
-login('#2: ID를 입력하세요', 2)
-login('#3: ID를 입력하세요', 2, '다시 도전하세요')
+login('#1: ID를 입력하세요: ')
+login('#2: ID를 입력하세요: ', 2)
+login('#3: ID를 입력하세요: ', 2, '다시 도전하세요')
