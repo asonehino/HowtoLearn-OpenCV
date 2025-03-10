@@ -15,4 +15,4 @@ dog = Dog()
 dog.name = "이창수엘라"
 dog.gender = "Male"
 dog.owner = "세시두분"
-dog.Bark()
+dog.Bark() 
